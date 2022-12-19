@@ -1,0 +1,87 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
+body{
+    background-image: url(../images/bg-intro-desktop.png);
+    background-color: #ff7978;
+}
+
+.row {
+    max-width: 900px;
+    margin: 50px auto 105px;
+    padding: 0 2rem;
+    
+  }
+
+  .card-col-sm {
+    float: left;
+    width: 405px;
+    margin: 0;
+    margin-bottom: 60px;
+    padding: 0;
+    margin-top: 250px;
+    margin-right: 120px;
+    
+  }
+
+  h1{
+    color: #ffff;
+  }
+  p{
+    font-size: 16px;
+    color: #ffff;
+    
+  }
+  a {
+    text-decoration: none;
+    font-size: 06px;
+    color: #FF0000;
+  }  
+
+  .check{
+    font-size: 06px;
+  }
+  
+  
+  .card {
+      float: left;
+      width: 432px;
+      margin: 0;
+      margin-bottom: 80px;
+      padding: 0;
+      margin-top: 21px;
+      margin-right: 130px;
+    }
+
+    .span{ 
+        border: #7B68EE solid 1px;
+        background-color: #7B68EE;
+        padding: 10px 10px 10px 10px;
+        width: 430px;
+        text-align: center;
+        border-radius: 5px;
+        margin-top: 124px;
+        color: #ffff;
+        cursor: pointer;
+    
+      }
+    
+      form {
+        background-color: white;
+        width: 400px;
+        height: 350px;
+        display: flex;
+        padding: 22px 22px 22px 22px;
+        flex-direction: column;
+        justify-content: space-around;
+        border-radius: 5px;
+    }
+    button{
+      background-color: rgb(6, 124, 6);
+      border:rgb(6, 124, 6) solid 10px;
+      border-radius: 5px;
+      color: #ffff;
+      cursor: pointer;
+    }
+      
